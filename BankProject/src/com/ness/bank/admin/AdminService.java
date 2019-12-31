@@ -14,4 +14,8 @@ public class AdminService {
 	public void test() {
 		//TODO 
 	}
+	
+	public int add(int x, int y) {
+		return x + y;
+	}
 }
