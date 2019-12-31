@@ -8,8 +8,7 @@ public class AdminService {
 
 
 	public void run() {
-		//TODO
-		
+		System.out.println("run is executed");
 	}
 	
 	public void test() {
