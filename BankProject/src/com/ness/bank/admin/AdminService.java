@@ -6,4 +6,7 @@ public class AdminService {
 		System.out.println("AdminSevice");
 	}
 
+	public void run() {
+		//TODO
+	}
 }
