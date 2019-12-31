@@ -12,6 +12,6 @@ public class AdminService {
 	}
 	
 	public void test() {
-		System.out.println("test is executed");
+		System.out.println("test is execeted");
 	}
 }
