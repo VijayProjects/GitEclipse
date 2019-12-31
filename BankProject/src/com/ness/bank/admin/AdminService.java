@@ -12,6 +12,6 @@ public class AdminService {
 	}
 	
 	public void test() {
-		//TODO 
+		System.out.println("test is executed");
 	}
 }
