@@ -12,7 +12,7 @@ public class AdminService {
 	}
 	
 	public void test() {
-		//TODO 
+		System.out.println("test is execeted");
 	}
 	
 	public int add(int x, int y) {
